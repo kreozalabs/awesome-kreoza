@@ -23,5 +23,4 @@ To ensure code can be shared cleanly across Web, Desktop, and Mobile, each packa
 
 ## 📦 Core Repositories
 - **[.github](https://github.com/kreoza-labs/.github)**: Organization metadata & templates.
-- **[eslint-config](../eslint-config)**: Shared DX / Linter rules.
 - **[tooling](../tooling)**: Shared developer tooling and configurations (e.g., stylelint-config, prettier-config, configs for Python, and non-TypeScript specific setups).
